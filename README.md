@@ -14,9 +14,9 @@
 * 姓名：邵帅
 * 团队：支付宝前端基础技术组
 * 简介：好好学习，天天向上
-* 照片：(http://shaoshuai.me/man.jpg)
-* 微博：http://weibo.com/u/1938472671
-* 博客：http://shaoshuai.me
+* 照片：![](http://shaoshuai.me/man.jpg)
+* 微博：[http://weibo.com/u/1938472671](http://weibo.com/u/1938472671)
+* 博客：[http://shaoshuai.me](http://shaoshuai.me)
 
 
 ### 授课时长
